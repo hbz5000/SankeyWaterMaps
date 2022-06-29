@@ -1,8 +1,8 @@
 # Sankey Water Maps
 This repository contains all code and data for Sankey Water Maps, a mapping tool that uses publicly available data to map the distribution of state/federal water projects  
-Existing Maps with Examples:  
+### Existing Maps with Examples:  
 Central Arizona Project (2018 - current)  
-Future Maps (no examples yet):  
+### Future Maps (no examples yet):  
 Central Valley Project: Tehama-Colusa Canal  
 Central Valley Project: Friant-Kern Canal  
 Sacramento-San Joaquin Delta: CVP/SWP combined operations  
