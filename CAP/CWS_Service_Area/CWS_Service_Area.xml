@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This feature class contains service
+area polygons for each Community Water System (CWS). To determine the service
+area, ADWR utilized primary data provided directly from the water system (i.e.
+PDF, shapefile, verbal definition). If primary data is unavailable, secondary
+data was utilized to determine service area boundaries (i.e. Certificate of
+Convenience and Necessity (CCN), Census Designated Place shapefile from U.S
+Census Bureau.) 
+
+New water systems are added, and
+contact information is updated for existing water systems on an annual basis.
+Service area maps are updated every 5 years. ADWR cannot verify the spatial
+accuracy of the information contained on this map. 
+
+The most recent annual update was
+3/24/2022.
+
+The most recent service area update
+was 3/24/2022.</abstract>
+            <purpose>The purpose of this feature class is to provide service area boundaries for community water systems regulated by the Arizona Department of Water Resources.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Community</themekey>
+                <themekey>Service</themekey>
+                <themekey>System</themekey>
+                <themekey>Service Area</themekey>
+                <themekey>Area</themekey>
+                <themekey>Community Water Systems</themekey>
+                <themekey>Public Water System</themekey>
+                <themekey>Systems</themekey>
+                <themekey>CWS</themekey>
+                <themekey>Public</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

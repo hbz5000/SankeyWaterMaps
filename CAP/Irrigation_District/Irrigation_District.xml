@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract/>
+            <purpose>Irrigation districts are municipal corporations with broad powers and purposes. Districts can purchase or acquire water rights, own or sell property and real estate, construct facilities, generate electricity, appropriate water for irrigation and power generation, tax and charge for services, appropriate money, and provide the district with water, electricity, and other public conveniences and necessities generally provided by municipalities.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Irrigation</themekey>
+                <themekey>Arizona</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

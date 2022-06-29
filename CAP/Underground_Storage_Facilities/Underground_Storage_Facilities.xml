@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Map</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract/>
+            <purpose>An Underground Storage Facility (USF) Permit(A.R.S. § 45-811.01) allows the permit holder to operate a facility that stores water in the aquifer. The criteria a USF must meet in order to be permitted include:1. The project must be hydrologically feasible;2. The applicant must demonstrate financial and technical capability;3. The applicant must agree in writing to obtain any required floodplain use permit from the county flood control district before beginning any construction activities;4. The project may not cause unreasonable harm to land or other water users within the area of impact; and5. The project will continue to be monitored to ensure storage does not cause the migration of poor quality water. A Constructed Underground Storage Facility Permit allows for water to be stored in an aquifer by using some type of constructed device, such as an injection well or percolation basin.A Managed Underground Storage Facility Permit allows for water to be discharged to a naturally water-transmissive area such as a streambed that allows the water to percolate into the aquifer without the assistance of a constructed device. All surface flows entering and exiting a managed underground storage facility must be measured at the facility boundaries in a manner consistent with the Department’s measuring device rules (R12-15-905 &amp; 906 ).</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Recharge</themekey>
+                <themekey>Underground Storage Facility</themekey>
+                <themekey>USF</themekey>
+                <themekey>71</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred/>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
